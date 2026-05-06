@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Repo Overview](https://raw.githubusercontent.com/BMWAdam/tpvselect/badges/badges/loc-badge.svg)
+![Repo Overview](https://raw.githubusercontent.com/BMWAdam/nixvim-config/badges/badges/loc-badge.svg)
 
 <!--
 **BMWAdam/BMWAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
